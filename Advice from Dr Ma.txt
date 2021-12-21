@@ -1,0 +1,18 @@
+**Date:** 12/6/2019
+Dr. Ma discussed with me about this paper, and I really learned a lot from this discussion. I hope I 
+can do better in the future. Followings are some advice from him.
+
+- The criterion used to evaluate the model should change from MAE to MSE.
+- The meaning of Z in the equation system is not clear.
+- It's not about prediction, but estimation.
+- The reason why define a critical lane is not clear.
+- Should understand concepts of *Weaving*, *lane changing*, and *car following*.
+- This topic can be extended to research the relationship between lane mean speed and car following 
+behavior as well as lane changing behavior. And if I'm interested in it, I can take it as the topic of 
+my **Master Thesis**. About the this topic, there is a very typical model called *second-order model*. I 
+should read some papers related to this topic.
+- This paper only consider the spatial relationship, the improvement should be considering the temporal 
+relationship at the same time.
+- Unlike the traditional car following models and lane changing models which use **physis** to model the 
+traffic flow, if we want to research the relationships between lane mean speed and the aforementioned 
+two bahaviors, our model is **data-driven** model. 
